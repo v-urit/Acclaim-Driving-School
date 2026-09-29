@@ -1,0 +1,6 @@
+{
+  "name": "Acclaim Driving | Premier UK Driving School",
+  "description": "Pass your driving test with confidence. Acclaim Driving offers intensive driving courses, weekly driving lessons, DVSA Grade A instructors, and dual-control mild hybrid fleet across the UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
